@@ -10,7 +10,8 @@ Using data from an e-commerce website, this analysis looks at whether a new land
 
 ## Data
 
-First 5 rows of data looks like this:
+First 5 rows of ab_data.csv:
+
 |    |   user_id | timestamp                  | group     | landing_page   |   converted |
 |---:|----------:|:---------------------------|:----------|:---------------|------------:|
 |  0 |    851104 | 2017-01-21 22:11:48.556739 | control   | old_page       |           0 |
