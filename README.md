@@ -2,6 +2,10 @@
 
 Using data from an e-commerce website, this analysis looks at whether a new landing page was effective at getting more visitors to "convert", i.e. decide to pay for a company's product.
 
+## View
+
+View analyze-ab-test-results.ipynb to see project.
+
 ## Methods of Analysis
 
 1. Probability
